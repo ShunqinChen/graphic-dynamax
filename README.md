@@ -1,2 +1,2 @@
 # graphic-dynamax
-Function design or Archetecture structure graphic
+Function design or Archetecture structure graphic, **Draft Only~**
